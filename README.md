@@ -1,5 +1,5 @@
 # snake-retro
 
 
-![Alt Text](https://github.com/andiahmads/snake-retro/example.png)
+![Alt Text](https://github.com/andiahmads/snake-retro/blob/master/example.png)
 
